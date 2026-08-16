@@ -1,6 +1,6 @@
 <script setup>
 // ponytail: hardcode sesuai PRD — skill jarang berubah, tak perlu CMS.
-const skills = ['Vue 3', 'React', 'JavaScript', 'TypeScript', 'Tailwind CSS', 'Vite', 'Sanity', 'Git', 'Python', 'Machine Learning']
+const skills = ['Vue 3', 'React', 'JavaScript', 'Git', 'Python', 'Machine Learning', 'Deep Learning', 'LLM']
 </script>
 
 <template>
