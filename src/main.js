@@ -1,3 +1,6 @@
+// Cegah browser scroll ke hash saat refresh
+if (location.hash) history.replaceState(null, '', location.pathname)
+
 import { createApp } from 'vue'
 import App from './App.vue'
 import './style.css'
