@@ -23,7 +23,7 @@
           href="/cv.pdf"
           class="px-6 py-3 rounded-lg border border-line font-medium hover:border-brand hover:text-brand transition"
         >
-          Lihat CV Saya
+          Lihat CV
         </a>
       </div>
     </div>
